@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/kartinki_podsistem_1s_8.3.zip</file>
+        <file>img/most.png</file>
+        <file>img/phone.png</file>
+        <file>img/Thumbs.db</file>
+        <file>img/tp_snap1.gif</file>
+        <file>img/архив_документов.jpg</file>
+        <file>img/архив Документов.jpg</file>
+        <file>img/бухгалтер.jpg</file>
+        <file>img/деньги.jpg</file>
+        <file>img/док_бежит.jpg</file>
+        <file>img/док на фоне.png</file>
+        <file>img/документы на белом.jpg</file>
+        <file>img/НСИ.jpg</file>
+        <file>img/рука из документов.jpg</file>
+        <file>img/рука из документов2.jpg</file>
+        <file>img/услуги.jpg</file>
+    </qresource>
+</RCC>
